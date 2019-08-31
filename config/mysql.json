@@ -1,0 +1,17 @@
+{
+    "dev": {
+        "database": "course",
+        "host": "localhost",
+        "user": "root",
+        "password": "root",
+        "port": 3306
+
+
+    },
+    "stagin": {
+
+    },
+    "product": {
+
+    }
+}
